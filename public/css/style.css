@@ -1,0 +1,90 @@
+.signup-page {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+span.error {
+    font-size: 12px;
+    color: #cc0505;
+}
+.title a {
+    text-decoration: none;
+    font-size: 22px;
+    font-weight: 700;
+}
+.col-md-12.single-post {
+    background-color: #fff;
+    border-bottom: 1px solid #ccc;
+    border-radius: 2px;
+    margin-bottom: 20px;
+}
+p.post-status {
+    font-size: 12px;
+    font-weight: 700;
+    color: #aaa;
+}
+.title h2 {
+    margin-bottom: 2px;
+}
+.content {
+    margin-top: 25px;
+}
+.content-sty {
+    margin: auto 0;
+    background-color: #fff;
+    min-height: 800px;
+    position: relative;
+    padding: 15px;
+    margin-top: -25px;
+}
+.answer-div {
+    margin-top: 50px;
+}
+
+span.answered {
+    font-size: 10px;
+    font-weight: 700;
+}
+div#comment-box {
+    margin-top: 10px;
+    display: none;
+}
+span.up-vote {
+    font-size: 33px;
+    display: block;
+    margin-bottom: -9px;
+    cursor: pointer;
+}
+span.vote-counter {
+    font-size: 23px;
+    font-family: cursive;
+    display: block;
+}
+span.down-vote {
+    font-size: 33px;
+    display: block;
+    margin-top: -9px;
+    cursor: pointer;
+}
+h1.main-title {
+    margin: 0;
+    margin-top: 4px;
+    font-size: 33px;
+    font-weight: 700;
+}
+.user_img img {
+    width: 50px;
+    height: auto;
+}
+.user_img {
+    float: left;
+    margin-right: 10px;
+}
+.question-content {
+    display: table;
+}
+.vote-cont {
+    float: left;
+    display: block;
+    margin-right: 25px;
+}
